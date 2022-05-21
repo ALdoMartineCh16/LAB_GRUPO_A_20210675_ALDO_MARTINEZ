@@ -1,5 +1,5 @@
 
-#include "alumno.h"
+#include "Alumno.h"
 using namespace std;
 
 int main(){
